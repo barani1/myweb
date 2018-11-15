@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !! </h1>
-<h2> AWS & DevOps training </h2>
-<h2> Happy learning </h2>
+<h1> Hello, Welcome to Niranthra Technologies !! </h1>
+<h2> Tirupathi </h2>
+<h2> Chennai </h2>
